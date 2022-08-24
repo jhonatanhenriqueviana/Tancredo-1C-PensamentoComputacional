@@ -1,7 +1,17 @@
 body {
-    text-align: center;
-    background:#ffc8dd
-} 
+text-align: center;
+background: #ffc8dd
+}
 #slogan{
     font-size: 25px;
+}
+.capa{
+    width: 90%;
+    height: 80%;
+}
+.conteudo{
+    background: rgb(254, 217, 223);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(50, 2, 54);
+    
 }
