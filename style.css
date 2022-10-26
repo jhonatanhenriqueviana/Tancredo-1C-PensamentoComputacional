@@ -1,4 +1,7 @@
-body {
+body {background: #ffc8dd
+
+}
+main {
 text-align: center;
 background: #ffc8dd
 }
@@ -15,3 +18,22 @@ background: #ffc8dd
     color: rgb(50, 2, 54);
     
 }
+.beneficios {
+    background-color:#fcaac8 ;
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+li{
+ padding: 10px;
+ margin: 10px;
+}
+.foto-beneficio {
+    width : 50% ;
+    text-align: right;
+    padding: 10px;
+}
+
