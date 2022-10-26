@@ -1,9 +1,15 @@
-body {background: #ffc8dd
-
+body {
+    background: linear-gradient( #f7afcb,#77032e);
+    margin: 0 auto;
+}
+.foto-logo{
+    width: 10%;
+    margin: 18px;
+    border-radius: 100%;
 }
 main {
 text-align: center;
-background: #ffc8dd
+
 }
 #slogan{
     font-size: 25px;
@@ -11,16 +17,17 @@ background: #ffc8dd
 .capa{
     width: 90%;
     height: 80%;
+    
 }
 .conteudo{
-    background: rgb(254, 217, 223);
+    
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(50, 2, 54);
     
 }
-.beneficios {
-    background-color:#fcaac8 ;
-    display: inline-block;
+
+.beneficios h2 {
+    text-align: center;
 }
 ul{
     display: inline-block;
@@ -35,5 +42,7 @@ li{
     width : 50% ;
     text-align: right;
     padding: 10px;
+    border-radius: 100% ;
+    box-shadow: 2px 2px 5px #140014 ;
 }
 
