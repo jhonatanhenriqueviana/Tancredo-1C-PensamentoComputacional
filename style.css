@@ -7,6 +7,24 @@ body {
     margin: 18px;
     border-radius: 100%;
 }
+nav{
+    position: absolute;
+    top:90px;
+    right: 65px;
+}
+nav a{
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-left: 20px;
+    color: bisque;
+}
+nav a:hover{
+    font-size: 34px;
+    font-weight: bold;
+    text-shadow:2px 3px 5px #140014;
+    transition: 1s;
+}
 main {
 text-align: center;
 
@@ -17,6 +35,9 @@ text-align: center;
 .capa{
     width: 90%;
     height: 80%;
+    padding: 10px;
+    border-radius: 10px ;
+    box-shadow: 2px 2px 5px #140014 ;
     
 }
 .conteudo{
